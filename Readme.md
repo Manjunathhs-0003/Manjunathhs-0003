@@ -1,5 +1,5 @@
 <!-- Introduction section -->
-<h2 align="left">Hi 👋! My name is Manjunath HS</h2>
+<h2 align="center">Hi 👋! My name is Manjunath HS</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 ###
 
 <!-- Contact section -->
-<div align="left">
+<div align="center">
   <!-- Gmail logo with mailto link -->
   <a href="mailto:hsmanjunathhsmanjunath@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
@@ -36,7 +36,7 @@
 ###
 
 <!-- Programming language icons section -->
-<div align="left">
+<div align="center">
   <!-- Python logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" height="50" alt="python logo"  />
   <!-- Spacer -->
