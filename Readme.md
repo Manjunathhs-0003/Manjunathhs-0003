@@ -49,8 +49,9 @@
 
 <!-- Streak stats section -->
 <p align="center">
-  <img height="250" width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunathhs-0003&hide_border=true&theme=radical" card_width=320/>
+  <img height="250" width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunathhs-0003&hide_border=true&theme=dracula" card_width=320/>
 </p>
+
 
 <!-- Snake animation section -->
 <img src="https://raw.githubusercontent.com/Manjunathhs-0003/Manjunathhs-0003/output/snake.svg" alt="Snake animation" />
