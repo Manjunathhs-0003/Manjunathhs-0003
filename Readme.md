@@ -34,9 +34,6 @@
 </div>
 
 ###
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Manjunathhs-0003&label=Profile%20Visits&color=0e75b6&style=flat" alt="karthikgowdams03" /> </p>
-
-###
 <!-- Programming language icons section -->
 <div align="center">
   <!-- Python logo -->
