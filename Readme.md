@@ -12,6 +12,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manjunathhs-0003&locale=en&hide_title=false&layout=compact&card_width=48%&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 </div>
+<h3 align="center">🔨 What I'm Currently Working On</h3>
+<p align="center">
+  Building a ChatBot using OpenAI API and langchain to read multiple PDFs.<br>
+</p>
 
 ###
 
