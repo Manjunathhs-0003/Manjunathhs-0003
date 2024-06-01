@@ -14,7 +14,7 @@
 </div>
 <h3 align="center">🔨 What I'm Currently Working On</h3>
 <p align="center">
-  Building a ChatBot using OpenAI API and langchain to read multiple PDFs.<br>
+  Building a ChatBot using Azure openai and langchain to read multiple PDFs.<br>
 </p>
 
 ###
