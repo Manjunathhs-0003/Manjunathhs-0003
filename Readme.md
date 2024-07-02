@@ -6,10 +6,10 @@
 <!-- Profile stats cards section -->
 <div align="center">
   <!-- First profile stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Manjunathhs-0003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manjunathhs-0003&theme=nightowl&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"/>
   
 <!-- Second profile stats card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manjunathhs-0003&locale=en&hide_title=false&layout=compact&card_width=48%&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathhs-0003&theme=nightowl&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
 
 ###
 
@@ -46,7 +46,7 @@
 
 <!-- Streak stats section -->
 <p align="center">
-  <img height="250" width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunathhs-0003&hide_border=true&theme=dracula" card_width=320/>
+  <img height="250" width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathhs-0003&theme=nightowl&show_icons=true&hide_border=true&layout=compact" card_width=320/>
 </p>
 
 
