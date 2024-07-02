@@ -46,7 +46,7 @@
 
 <!-- Streak stats section -->
 <p align="center">
-  <img height="250" width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunathhs-0003&theme=nightowl&hide_border=true" card_width=320/>
+  <img height="200" width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunathhs-0003&theme=nightowl&hide_border=true" card_width=320/>
 </p>
 
 <!-- Snake animation section -->
