@@ -1,5 +1,5 @@
 <!-- Introduction section -->
-<h2 align="center">Hiii 👋! My name is Manjunath HS</h2>
+<h2 align="center">Hiii 👋 I'm Manjunath HS</h2>
 
 ###
 
