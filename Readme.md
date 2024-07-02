@@ -9,7 +9,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Manjunathhs-0003&theme=nightowl&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"/>
   
 <!-- Second profile stats card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathhs-0003&theme=nightowl&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathhs-0003&theme=nightowl&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
+
 ###
 
 <!-- Contact section -->
