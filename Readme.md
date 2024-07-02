@@ -10,7 +10,6 @@
   
 <!-- Second profile stats card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathhs-0003&theme=nightowl&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
-
 ###
 
 <!-- Contact section -->
@@ -46,9 +45,8 @@
 
 <!-- Streak stats section -->
 <p align="center">
-  <img height="250" width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathhs-0003&theme=nightowl&show_icons=true&hide_border=true&layout=compact" card_width=320/>
+  <img height="250" width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunathhs-0003&theme=nightowl&hide_border=true" card_width=320/>
 </p>
-
 
 <!-- Snake animation section -->
 <img src="https://raw.githubusercontent.com/Manjunathhs-0003/Manjunathhs-0003/output/snake.svg" alt="Snake animation" />
