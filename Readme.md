@@ -6,9 +6,15 @@
 <!-- Profile stats cards section -->
 <div align="center">
   <!-- First profile stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Manjunathhs-0003&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="Manjunath's Github Stats" height="150" alt="stats graph"/>
+<a href="https://github.com/Manjunathhs-0003?tab=repositories" target="_blank" rel="noreferrer">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Manjunathhs-0003&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="Manjunath's Github Stats"/>
+</a>
+
+
 <!-- Second profile stats card -->
+<a href="https://github.com/Manjunathhs-0003?tab=repositories" target="_blank" rel="noreferrer">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathhs-0003&theme=nightowl&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
+</a>
 
 ###
 
