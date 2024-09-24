@@ -1,20 +1,28 @@
 <!-- Introduction section -->
 <h2 align="center">Hiii 👋 I'm Manjunath HS</h2>
+<ul>
+  <li>Currently Learning:<b> Data Science</b></li>
+  <li>Currently Working on:<b> How to Respond!!!</b></li>
+</ul>
 
 ###
-
-<!-- Profile stats cards section -->
+<!-- GitHub Stats section -->
 <div align="center">
   <!-- First profile stats card -->
-<a href="https://github.com/Manjunathhs-0003?tab=repositories" target="_blank" rel="noreferrer">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Manjunathhs-0003&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="Manjunath's Github Stats"/>
-</a>
+  <a href="https://github.com/Manjunathhs-0003?tab=repositories" target="_blank" rel="noreferrer">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Manjunathhs-0003&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true" alt="Manjunath's Github Stats"/>
+  </a>
 
+  <!-- Streak stats card -->
+  <a href="https://github.com/Manjunathhs-0003?tab=repositories" target="_blank" rel="noreferrer">
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunathhs-0003&theme=nightowl&hide_border=true" alt="Github Streak Stats"/>
+  </a>
 
-<!-- Second profile stats card -->
-<a href="https://github.com/Manjunathhs-0003?tab=repositories" target="_blank" rel="noreferrer">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathhs-0003&theme=nightowl&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
-</a>
+  <!-- Languages stats card -->
+  <a href="https://github.com/Manjunathhs-0003?tab=repositories" target="_blank" rel="noreferrer">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathhs-0003&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
+  </a>
+</div>
 
 ###
 
@@ -37,23 +45,19 @@
 </div>
 
 ###
-<!-- Programming language icons section -->
 <div align="center">
-  <!-- Python logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" height="50" alt="python logo"  />
-  <!-- Spacer -->
-  <img width="12" />
-  <!-- C++ logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" align="center" height="50" alt="cplusplus logo"  />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35" alt="C++"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35" alt="Python"/>
+<!--   <img src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515" height="35" alt="PythonAnywhere"/>
+  <img src="https://img.shields.io/badge/render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" height="35" alt="Render"/> -->
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="35" alt="Flask"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="35" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="35" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="35" alt="Postgres"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="35" alt="Pandas"/>
 </div>
 
 ###
-
-<!-- Streak stats section -->
-<p align="center">
-  <img height="200" width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunathhs-0003&theme=nightowl&hide_border=true" card_width=320/>
-</p>
-
 <!-- Snake animation section -->
 <img src="https://raw.githubusercontent.com/Manjunathhs-0003/Manjunathhs-0003/output/snake.svg" alt="Snake animation" />
 
