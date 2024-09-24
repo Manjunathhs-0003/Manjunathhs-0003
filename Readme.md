@@ -13,14 +13,16 @@
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=Manjunathhs-0003&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true" alt="Manjunath's Github Stats"/>
   </a>
 
-  <!-- Streak stats card -->
-  <a href="https://github.com/Manjunathhs-0003?tab=repositories" target="_blank" rel="noreferrer">
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunathhs-0003&theme=nightowl&hide_border=true" alt="Github Streak Stats"/>
-  </a>
+  
 
   <!-- Languages stats card -->
   <a href="https://github.com/Manjunathhs-0003?tab=repositories" target="_blank" rel="noreferrer">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunathhs-0003&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
+  </a>
+
+  <!-- Streak stats card -->
+  <a href="https://github.com/Manjunathhs-0003?tab=repositories" target="_blank" rel="noreferrer">
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunathhs-0003&theme=nightowl&hide_border=true" alt="Github Streak Stats"/>
   </a>
 </div>
 
